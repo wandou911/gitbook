@@ -20,7 +20,7 @@
         "splitter",
         "expandable-chapters-small",
         "anchors",
-
+        "edit-link",
         "github",
         "github-buttons",
         "sharing-plus",
@@ -40,6 +40,10 @@
                 "count": true
                 }
             ]
+        },
+        "edit-link": {
+            "base": "https://github.com/wandou911/gitbook/edit/master",
+            "label": "Edit This Page"
         },
         "sharing": {
             "douban": false,
