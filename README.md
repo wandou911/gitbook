@@ -1,2 +1,4 @@
-# Introduction
+# 简介
+
+这是一本教你如何编写 Gitbook 电子书的教程
 
