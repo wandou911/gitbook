@@ -1,9 +1,9 @@
 # Summary
 
 * [简介](README.md)
-* [什么是Gitbook](gitbook.md)
 * [安装](install.md)
-* [简单书写](write.md)
+* [使用](write.md)
+* [Gitbook目录](content.md)
 * [插件](plugin.md)
 * [将电子书部署到GitHub](deploy-to-GitHub.md)
 * [购买VPS](vps.md)
