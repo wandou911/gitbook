@@ -182,7 +182,7 @@ To https://github.com/wandou911/gitbook.git
 
 刷新github网页 即可看到刚才上传的html文件
 
-### 后记
+### 后记后记
 
 这里有两个分支 master分支和gh-pages分支 
 
